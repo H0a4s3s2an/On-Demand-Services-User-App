@@ -6,10 +6,10 @@ This was my final year university project that i had done in back 2018. It was c
 Basically the idea was to provide different daily services online to users on reasonable rates.  
 
 # Screenshots
-![Picture alt](https://github.com/H0a4s3s2an/On-Demand-Services-User-App/blob/main/screenshots/Screenshot_20200516-012011.png/540x1170) 
-![Picture alt](https://github.com/H0a4s3s2an/On-Demand-Services-User-App/blob/main/screenshots/Screenshot_20200516-020033.png/540x1170)
-![Picture alt](https://github.com/H0a4s3s2an/On-Demand-Services-User-App/blob/main/screenshots/Screenshot_20200516-020049.png/540x1170)
-![Picture text](https://github.com/H0a4s3s2an/On-Demand-Services-User-App/blob/main/screenshots/Screenshot_20200516-020114.png/540x1170)
+![Picture alt](https://github.com/H0a4s3s2an/On-Demand-Services-User-App/blob/main/screenshots/Screenshot_20200516-012011.png) 
+![Picture alt](https://github.com/H0a4s3s2an/On-Demand-Services-User-App/blob/main/screenshots/Screenshot_20200516-020033.png)
+![Picture alt](https://github.com/H0a4s3s2an/On-Demand-Services-User-App/blob/main/screenshots/Screenshot_20200516-020049.png)
+![Picture alt](https://github.com/H0a4s3s2an/On-Demand-Services-User-App/blob/main/screenshots/Screenshot_20200516-020114.png)
 
 # How To Use
 clone this repository
