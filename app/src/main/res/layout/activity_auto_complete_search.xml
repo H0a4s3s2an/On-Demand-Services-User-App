@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sample.usertribe.Activities.AutoCompleteSearch">
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@android:color/transparent"
+            app:popupTheme="@style/AppTheme.PopupOverlay">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:orientation="vertical"
+                >
+                <AutoCompleteTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/autocomplete_roundcorner"
+                    android:id="@+id/myLocation"
+                    android:textColor="#000000"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="16dp"
+                    android:drawableLeft="@drawable/auto_search"
+                    android:hint="@string/auto_message"
+                    android:layout_gravity="center"
+                    />
+            </LinearLayout>
+        </android.support.v7.widget.Toolbar>
+        <Button
+            android:layout_margin="20dp"
+            android:id="@+id/pickerBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:background="#D50000"
+            android:text="Pick Location"
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+    </android.support.design.widget.AppBarLayout>
+</android.support.constraint.ConstraintLayout>

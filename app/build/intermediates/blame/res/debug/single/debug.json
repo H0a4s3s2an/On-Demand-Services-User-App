@@ -1,0 +1,610 @@
+[
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_service_pro_map.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\activity_service_pro_map.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_inq.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\inq.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_dash_board.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\content_dash_board.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_slider3.9.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-xhdpi\\slider3.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_service_list_row.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\service_list_row.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_slider1.9.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-xhdpi\\slider1.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\raw_error.mp3.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\raw\\error.mp3"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_sublist_row.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\sublist_row.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_slider3.9.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-hdpi\\slider3.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_slider2.9.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-xhdpi\\slider2.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_account.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_account.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_current_location.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-mdpi\\current_location.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_account.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_account.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_white.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\login_white.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drop_down.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\drop_down.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_slide1.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\slide1.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_account.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_account.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drop.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\drop.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splash.9.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-mdpi\\splash.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_my_location.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\ic_my_location.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_back_white.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-v21\\back_white.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_rounded_button.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-v21\\rounded_button.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttonshape2.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\buttonshape2.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_fb.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\fb.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dummy_user.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\ic_dummy_user.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_slide2.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\slide2.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_dash_board.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\app_bar_dash_board.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_one.jpg.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\one.jpg"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_account.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_account.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_fb.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\fb.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_button_corner_black.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-v21\\button_corner_black.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_marker.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\icon_marker.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_fb.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\fb.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plumber.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\plumber.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_slide3.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\slide3.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_back_image.9.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-xhdpi\\back_image.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\raw_style_json.json.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\raw\\style_json.json"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_splash.9.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-ldpi\\splash.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_current_location.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-v24\\current_location.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_transparent_background.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\transparent_background.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttonshape.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\buttonshape.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_button.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_dash_board.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\nav_header_dash_board.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_physiotherapy.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\physiotherapy.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_car_cleaning.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\car_cleaning.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_profile.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_booking_detail.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\activity_booking_detail.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_laundary.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\laundary.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_password_reset.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\activity_password_reset.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_auto_search.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\auto_search.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_auto_search.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\auto_search.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_two.jpg.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\two.jpg"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_account.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_account.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_category_list_row.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\category_list_row.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_imageslider.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\imageslider.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_slider1.9.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-hdpi\\slider1.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_job.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\ic_job.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash.9.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-hdpi\\splash.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_slider2.9.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-hdpi\\slider2.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_carpenter_extenion.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\carpenter_extenion.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_setting.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\ic_setting.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_frament_job.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\frament_job.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_auto_search.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\auto_search.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_account.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_account.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_current_location.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-xhdpi\\current_location.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_progress_dialog.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fb.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\fb.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_setting.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_book_service_fragment.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\book_service_fragment.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fb.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\fb.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_slider3.9.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-ldpi\\slider3.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_account.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_account.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_auto_search.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\auto_search.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_autocomplete_roundcorner.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\autocomplete_roundcorner.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_slider1.9.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-ldpi\\slider1.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_slider2.9.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-ldpi\\slider2.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_man.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\man.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_share.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_driver_loc_marker.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\ic_driver_loc_marker.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detailed.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\activity_detailed.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_calendar_clock.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-v21\\calendar_clock.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_send.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_image.9.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-hdpi\\back_image.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_dash_board_drawer.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\menu\\activity_dash_board_drawer.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_auto_complete_search.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\activity_auto_complete_search.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dash_board.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\activity_dash_board.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_change_password.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_electrician.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\electrician.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_history_list_item.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\history_list_item.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_wallet.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\ic_menu_wallet.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_flat.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\activity_flat.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_empty_message_view.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\empty_message_view.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_current_focus.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-mdpi\\current_focus.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_loading_item.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\loading_item.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_fb.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\fb.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_detail.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\ic_close_detail.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_fb.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\fb.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fb_button.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\fb_button.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_splash.9.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-xhdpi\\splash.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_slider.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\activity_slider.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payment.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_customdialog.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\customdialog.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_current_location.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-hdpi\\current_location.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loadingimage.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\loadingimage.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payment_mode.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\activity_payment_mode.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_current_location.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-v21\\current_location.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile_visit.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\activity_profile_visit.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_history.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\activity_user_history.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_back_image.9.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-ldpi\\back_image.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\menu_dash_board.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\menu\\dash_board.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_slider1.9.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-mdpi\\slider1.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_slider3.9.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-mdpi\\slider3.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sub_category.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\activity_sub_category.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_yourtrip.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\ic_menu_yourtrip.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_profile.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\ic_menu_profile.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_three.jpg.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\three.jpg"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_slider2.9.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-mdpi\\slider2.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_auto_search.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\auto_search.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable_painter.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable\\painter.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_address.xml.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\layout\\activity_address.xml"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_auto_search.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\auto_search.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_back_image.9.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\drawable-mdpi\\back_image.9.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_auto_search.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\auto_search.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Photoshop\\mazdooruserapp\\hassan_0-mazdooruserapp-f67697bad413\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,2 @@
+# Referenced at D:\Photoshop\mazdooruserapp\hassan_0-mazdooruserapp-f67697bad413\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:38
+-keep class android.support.multidex.MultiDexApplication { <init>(); }

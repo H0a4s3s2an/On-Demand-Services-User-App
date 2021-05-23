@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:Andorra</item>
+        <item>971:AE:Emirados Árabes Unidos</item>
+        <item>93:AF:Afeganistão</item>
+        <item>1:AG:Antígua</item>
+        <item>1:AI:Anguilla</item>
+        <item>355:AL:Albânia</item>
+        <item>374:AM:Arménia</item>
+        <item>244:AO:Angola</item>
+        <item>54:AR:Argentina</item>
+        <item>1:AS:Samoa Americana</item>
+        <item>43:AT:Áustria</item>
+        <item>61:AU:Austrália</item>
+        <item>297:AW:Aruba</item>
+        <item>994:AZ:Azerbaijão</item>
+        <item>387:BA:Bósnia e Herzegovina</item>
+        <item>1:BB:Barbados</item>
+        <item>880:BD:Bangladeche</item>
+        <item>32:BE:Bélgica</item>
+        <item>226:BF:Burquina Faso</item>
+        <item>359:BG:Bulgária</item>
+        <item>973:BH:Barém</item>
+        <item>257:BI:Burundi</item>
+        <item>229:BJ:Benim</item>
+        <item>1:BM:Bermudas</item>
+        <item>673:BN:Brunei</item>
+        <item>591:BO:Bolívia</item>
+        <item>599:BQ:Bonaire, Santo Eustáquio e Saba</item>
+        <item>55:BR:Brasil</item>
+        <item>1:BS:Baamas</item>
+        <item>975:BT:Butão</item>
+        <item>267:BW:Botsuana</item>
+        <item>375:BY:Bielorrússia</item>
+        <item>501:BZ:Belize</item>
+        <item>1:CA:Canadá</item>
+        <item>243:CD:República Democrática do Congo</item>
+        <item>236:CF:República Centro-Africana</item>
+        <item>242:CG:República do Congo</item>
+        <item>41:CH:Suíça</item>
+        <item>225:CI:Costa do Marfim</item>
+        <item>682:CK:Ilhas Cook</item>
+        <item>56:CL:Chile</item>
+        <item>237:CM:Camarões</item>
+        <item>86:CN:China</item>
+        <item>57:CO:Colômbia</item>
+        <item>506:CR:Costa Rica</item>
+        <item>53:CU:Cuba</item>
+        <item>238:CV:Cabo Verde</item>
+        <item>599:CW:Curaçao</item>
+        <item>357:CY:Chipre</item>
+        <item>420:CZ:República Checa</item>
+        <item>49:DE:Alemanha</item>
+        <item>253:DJ:Jibuti</item>
+        <item>45:DK:Dinamarca</item>
+        <item>1:DM:Domínica</item>
+        <item>1:DO:República Dominicana</item>
+        <item>213:DZ:Argélia</item>
+        <item>593:EC:Equador</item>
+        <item>372:EE:Estónia</item>
+        <item>20:EG:Egipto</item>
+        <item>212:EH:Sara Ocidental</item>
+        <item>291:ER:Eritreia</item>
+        <item>34:ES:Espanha</item>
+        <item>251:ET:Etiópia</item>
+        <item>358:FI:Finlândia</item>
+        <item>679:FJ:Fiji</item>
+        <item>500:FK:Ilhas Falkland</item>
+        <item>691:FM:Estados Federados da Micronésia</item>
+        <item>298:FO:Ilhas Faroé</item>
+        <item>33:FR:França</item>
+        <item>241:GA:Gabão</item>
+        <item>44:GB:Reino Unido</item>
+        <item>1:GD:Granada</item>
+        <item>995:GE:Geórgia</item>
+        <item>594:GF:Guiana Francesa</item>
+        <item>44:GG:Guernsey</item>
+        <item>233:GH:Gana</item>
+        <item>350:GI:Gibraltar</item>
+        <item>299:GL:Gronelândia</item>
+        <item>220:GM:Gâmbia</item>
+        <item>224:GN:Guiné</item>
+        <item>590:GP:Guadalupe</item>
+        <item>240:GQ:Guiné Equatorial</item>
+        <item>30:GR:Grécia</item>
+        <item>502:GT:Guatemala</item>
+        <item>1:GU:Guam</item>
+        <item>245:GW:Guiné-Bissau</item>
+        <item>592:GY:Guiana</item>
+        <item>852:HK:Hong Kong</item>
+        <item>504:HN:Honduras</item>
+        <item>385:HR:Croácia</item>
+        <item>509:HT:Haiti</item>
+        <item>36:HU:Hungria</item>
+        <item>62:ID:Indonésia</item>
+        <item>353:IE:Irlanda</item>
+        <item>972:IL:Israel</item>
+        <item>44:IM:Ilha de Man</item>
+        <item>91:IN:Índia</item>
+        <item>246:IO:Território Britânico do Oceano Índico</item>
+        <item>964:IQ:Iraque</item>
+        <item>98:IR:Irão</item>
+        <item>354:IS:Islândia</item>
+        <item>39:IT:Itália</item>
+        <item>44:JE:Jersey</item>
+        <item>1:JM:Jamaica</item>
+        <item>962:JO:Jordânia</item>
+        <item>81:JP:Japão</item>
+        <item>254:KE:Quénia</item>
+        <item>996:KG:Quirguizistão</item>
+        <item>855:KH:Camboja</item>
+        <item>686:KI:Quiribati</item>
+        <item>269:KM:Comores</item>
+        <item>1:KN:São Cristóvão e Nevis</item>
+        <item>850:KP:Coreia do Norte</item>
+        <item>82:KR:Coreia do Sul</item>
+        <item>965:KW:Koweit</item>
+        <item>1:KY:Ilhas Caimão</item>
+        <item>7:KZ:Cazaquistão</item>
+        <item>856:LA:Laos</item>
+        <item>961:LB:Líbano</item>
+        <item>1:LC:Santa Lúcia</item>
+        <item>423:LI:Listenstaine</item>
+        <item>94:LK:Sri Lanca</item>
+        <item>231:LR:Libéria</item>
+        <item>266:LS:Lesoto</item>
+        <item>370:LT:Lituânia</item>
+        <item>352:LU:Luxemburgo</item>
+        <item>371:LV:Letónia</item>
+        <item>218:LY:Líbia</item>
+        <item>212:MA:Marrocos</item>
+        <item>377:MC:Mónaco</item>
+        <item>373:MD:Moldávia</item>
+        <item>382:ME:Montenegro</item>
+        <item>261:MG:Madagáscar</item>
+        <item>692:MH:Ilhas Marshall</item>
+        <item>389:MK:Macedónia</item>
+        <item>223:ML:Mali</item>
+        <item>95:MM:Myanmar</item>
+        <item>976:MN:Mongólia</item>
+        <item>853:MO:Macau</item>
+        <item>1:MP:Ilhas Marianas do Norte</item>
+        <item>596:MQ:Martinica</item>
+        <item>222:MR:Mauritânia</item>
+        <item>1:MS:Monserrate</item>
+        <item>356:MT:Malta</item>
+        <item>230:MU:Maurícia</item>
+        <item>960:MV:Maldivas</item>
+        <item>265:MW:Malawi</item>
+        <item>52:MX:México</item>
+        <item>60:MY:Malásia</item>
+        <item>258:MZ:Moçambique</item>
+        <item>264:NA:Namíbia</item>
+        <item>687:NC:Nova Caledónia</item>
+        <item>227:NE:Níger</item>
+        <item>672:NF:Ilha Norfolk</item>
+        <item>234:NG:Nigéria</item>
+        <item>505:NI:Nicarágua</item>
+        <item>31:NL:Países Baixos</item>
+        <item>47:NO:Noruega</item>
+        <item>977:NP:Nepal</item>
+        <item>674:NR:Nauru</item>
+        <item>683:NU:Niuê</item>
+        <item>64:NZ:Nova Zelândia</item>
+        <item>968:OM:Omã</item>
+        <item>507:PA:Panamá</item>
+        <item>51:PE:Peru</item>
+        <item>689:PF:Polinésia Francesa</item>
+        <item>675:PG:Papua-Nova Guiné</item>
+        <item>63:PH:Filipinas</item>
+        <item>92:PK:Paquistão</item>
+        <item>48:PL:Polónia</item>
+        <item>508:PM:São Pedro e Miquelon</item>
+        <item>1:PR:Porto Rico</item>
+        <item>970:PS:Palestina</item>
+        <item>351:PT:Portugal</item>
+        <item>680:PW:Palau</item>
+        <item>595:PY:Paraguai</item>
+        <item>974:QA:Catar</item>
+        <item>262:RE:Reunião</item>
+        <item>40:RO:Roménia</item>
+        <item>381:RS:Sérvia</item>
+        <item>7:RU:Rússia</item>
+        <item>250:RW:Ruanda</item>
+        <item>966:SA:Arábia Saudita</item>
+        <item>677:SB:Ilhas Salomão</item>
+        <item>248:SC:Seicheles</item>
+        <item>249:SD:Sudão</item>
+        <item>46:SE:Suécia</item>
+        <item>65:SG:Singapura</item>
+        <item>290:SH:Santa Helena</item>
+        <item>386:SI:Eslovénia</item>
+        <item>421:SK:Eslováquia</item>
+        <item>232:SL:Serra Leoa</item>
+        <item>378:SM:São Marinho</item>
+        <item>221:SN:Senegal</item>
+        <item>252:SO:Somália</item>
+        <item>597:SR:Suriname</item>
+        <item>211:SS:Sudão do Sul</item>
+        <item>239:ST:São Tomé e Príncipe</item>
+        <item>503:SV:El Salvador</item>
+        <item>1:SX:São Martinho</item>
+        <item>963:SY:Síria</item>
+        <item>268:SZ:Suazilândia</item>
+        <item>1:TC:Ilhas Turcas e Caicos</item>
+        <item>235:TD:Chade</item>
+        <item>228:TG:Togo</item>
+        <item>66:TH:Tailândia</item>
+        <item>992:TJ:Tajiquistão</item>
+        <item>690:TK:Tokelau</item>
+        <item>670:TL:Timor-Leste</item>
+        <item>993:TM:Turquemenistão</item>
+        <item>216:TN:Tunísia</item>
+        <item>676:TO:Tonga</item>
+        <item>90:TR:Turquia</item>
+        <item>1:TT:Trindade e Tobago</item>
+        <item>688:TV:Tuvalu</item>
+        <item>886:TW:Formosa</item>
+        <item>255:TZ:Tanzânia</item>
+        <item>380:UA:Ucrânia</item>
+        <item>256:UG:Uganda</item>
+        <item>1:US:Estados Unidos da América</item>
+        <item>598:UY:Uruguai</item>
+        <item>998:UZ:Usbequistão</item>
+        <item>1:VC:São Vicente e Granadinas</item>
+        <item>58:VE:Venezuela</item>
+        <item>1:VG:Ilhas Virgens Britânicas</item>
+        <item>1:VI:Ilhas Virgens Americanas</item>
+        <item>84:VN:Vietname</item>
+        <item>678:VU:Vanuatu</item>
+        <item>681:WF:Wallis e Futuna</item>
+        <item>685:WS:Samoa</item>
+        <item>967:YE:Iémen</item>
+        <item>262:YT:Maiote</item>
+        <item>27:ZA:África do Sul</item>
+        <item>260:ZM:Zâmbia</item>
+        <item>263:ZW:Zimbabué</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Escolher uma aplicação"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESATIVADO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ATIVADO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pesquisar..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partilhar com"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Partilhar com a aplicação <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Reduzir"</string>
+    <string msgid="4778414446709286370" name="cast_ad_label">"Anúncio"</string>
+    <string msgid="366047012176970604" name="cast_casting_to_device">"A transmitir para %1$s"</string>
+    <string msgid="2888745622334830481" name="cast_closed_captions">"Legendas ocultas"</string>
+    <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"Legendas ocultas não disponíveis"</string>
+    <string msgid="6769392312239056170" name="cast_connecting_to_device">"A ligar a <ns1:g id="NAME">%1$s</ns1:g>…"</string>
+    <string msgid="4431992200264667209" name="cast_disconnect">"Desassociar"</string>
+    <string msgid="5668979866539349222" name="cast_expanded_controller_ad_image_description">"Imagem apresentada enquanto o recetor de transmissão está a reproduzir um anúncio"</string>
+    <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"Anúncio em curso…"</string>
+    <string msgid="8886260998635257149" name="cast_expanded_controller_background_image">"Imagem do álbum"</string>
+    <string msgid="1316611227831672183" name="cast_expanded_controller_live_stream_indicator">"Transmissão em direto"</string>
+    <string msgid="7334411994450681286" name="cast_expanded_controller_loading">"A carregar…"</string>
+    <string msgid="8399595886048969508" name="cast_expanded_controller_skip_ad_label">"Ignorar"</string>
+    <string msgid="7884080323096468593" name="cast_forward">"Avançar"</string>
+    <string msgid="6424889955881797947" name="cast_forward_10">"Avançar dez segundos"</string>
+    <string msgid="7868672855975238403" name="cast_forward_30">"Avançar trinta segundos"</string>
+    <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
+    <string msgid="5637297909372905371" name="cast_mute">"Desativar som"</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"Ligado a <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"A ligar a <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2568179715202151240" name="cast_notification_default_channel_name">"Cast"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"Desligar"</string>
+    <string msgid="5308503786390460607" name="cast_pause">"Colocar em pausa"</string>
+    <string msgid="5906987965619702702" name="cast_play">"Reproduzir"</string>
+    <string msgid="1739665135565985480" name="cast_rewind">"Recuar"</string>
+    <string msgid="6432793028560778843" name="cast_rewind_10">"Recuar dez segundos"</string>
+    <string msgid="4677199707225681325" name="cast_rewind_30">"Recuar trinta segundos"</string>
+    <string msgid="9078075166993780241" name="cast_seek_bar">"Controlo de deslize de reprodução"</string>
+    <string msgid="3991548379225047363" name="cast_skip_next">"Ir para o item seguinte"</string>
+    <string msgid="8369073097776576935" name="cast_skip_prev">"Ir para o item anterior"</string>
+    <string msgid="9191388946729723891" name="cast_stop">"Parar"</string>
+    <string msgid="1219622777438777099" name="cast_stop_live_stream">"Parar transmissão em direto"</string>
+    <string msgid="4250321332248956563" name="cast_tracks_chooser_dialog_audio">"Áudio"</string>
+    <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"Cancelar"</string>
+    <string msgid="1779359505126875127" name="cast_tracks_chooser_dialog_closed_captions">"Legendas ocultas"</string>
+    <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"Faixa <ns1:g id="POSITION">%1$d</ns1:g>"</string>
+    <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"Nenhum"</string>
+    <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"OK"</string>
+    <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Legendas"</string>
+    <string msgid="2913461521603516868" name="cast_unmute">"Reativar o som"</string>
+    <string gender="unknown" name="com_accountkit_account_verified">Conta verificada!</string>
+    <string gender="unknown" name="com_accountkit_button_begin">Começar</string>
+    <string gender="unknown" name="com_accountkit_button_cancel">Cancelar</string>
+    <string gender="unknown" name="com_accountkit_button_confirm">Confirmar</string>
+    <string gender="unknown" name="com_accountkit_button_continue">Continuar</string>
+    <string gender="unknown" name="com_accountkit_button_edit">EDITAR</string>
+    <string gender="unknown" name="com_accountkit_button_log_in">Iniciar Sessão</string>
+    <string gender="unknown" name="com_accountkit_button_next">Seguinte</string>
+    <string gender="unknown" name="com_accountkit_button_resend_code_in">Enviar SMS novamente dentro de %1$d</string>
+    <string gender="unknown" name="com_accountkit_button_resend_sms">Enviar SMS Novamente</string>
+    <string gender="unknown" name="com_accountkit_button_send">Enviar</string>
+    <string gender="unknown" name="com_accountkit_button_send_code_in_call">Receber uma Chamada</string>
+    <string gender="unknown" name="com_accountkit_button_send_code_in_call_details">Recebe o teu código por chamada de voz</string>
+    <string gender="unknown" name="com_accountkit_button_send_code_in_call_from_facebook_details">Recebe o teu código numa chamada de voz do Facebook</string>
+    <string gender="unknown" name="com_accountkit_button_send_code_in_fb">Receber Código no Facebook</string>
+    <string gender="unknown" name="com_accountkit_button_send_code_in_fb_details">O código vai ser recebido como uma notificação do Facebook</string>
+    <string gender="unknown" name="com_accountkit_button_start">Início</string>
+    <string gender="unknown" name="com_accountkit_button_start_over">Tentar Novamente</string>
+    <string gender="unknown" name="com_accountkit_button_submit">Enviar</string>
+    <string gender="unknown" name="com_accountkit_check_email">Abrir E-mail</string>
+    <string gender="unknown" name="com_accountkit_code_sent_to">Verifica o teu número de telemóvel %1$s</string>
+    <string gender="unknown" name="com_accountkit_confirmation_code_agreement">Toca em %1$s para aceitar os &lt;a href=%2$s>Termos&lt;/a>, &lt;a href=%3$s>Política de Dados&lt;/a> e &lt;a href=%4$s>Utilização de Cookies&lt;/a> do Facebook.</string>
+    <string gender="unknown" name="com_accountkit_confirmation_code_agreement_app_privacy_policy">Toca em %1$s para aceitar os &lt;a href=%2$s>Termos&lt;/a>, &lt;a href=%3$s>Política de Dados&lt;/a>, &lt;a href=%4$s>Utilização de Cookies&lt;/a> do Facebook e a &lt;a href=%5$s>Política de Privacidade&lt;/a> de %6$s.</string>
+    <string gender="unknown" name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">Toca em %1$s para aceitar os &lt;a href=%2$s>Termos&lt;/a>, &lt;a href=%3$s>Política de Dados&lt;/a>, &lt;a href=%4$s>Utilização de Cookies&lt;/a> do Facebook e a &lt;a href=%5$s>Política de Privacidade&lt;/a> e &lt;a href=%6$s>Termos de Serviço&lt;/a> de %7$s.</string>
+    <string gender="unknown" name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">Toca em %1$s para aceitar os &lt;a href=%2$s>Termos&lt;/a>, &lt;a href=%3$s>Política de Dados&lt;/a>, &lt;a href=%4$s>Utilização de Cookies&lt;/a> do Facebook e a &lt;a href=%5$s>Política de Privacidade&lt;/a> e &lt;a href=%6$s>Termos de Serviço&lt;/a> de %7$s. &lt;a href=%8$s>Sabe mais&lt;/a> sobre a forma como a tua conta é verificada.</string>
+    <string gender="unknown" name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">Toca em %1$s para aceitar os &lt;a href=%2$s>Termos&lt;/a>, &lt;a href=%3$s>Política de Dados&lt;/a>, &lt;a href=%4$s>Utilização de Cookies&lt;/a> do Facebook e a &lt;a href=%5$s>Política de Privacidade&lt;/a> de %6$s. &lt;a href=%7$s>Sabe mais&lt;/a> sobre a forma como a tua conta é verificada.</string>
+    <string gender="unknown" name="com_accountkit_confirmation_code_agreement_instant_verification">Toca em %1$s para aceitar os &lt;a href=%2$s>>Termos&lt;/a>, &lt;a href=%3$s>Política de Dados&lt;/a>, &lt;a href=%4$s>Utilização de Cookies&lt;/a> do Facebook. &lt;a href=%5$s>Sabe mais&lt;/a> sobre a forma como a tua conta é verificada.</string>
+    <string gender="unknown" name="com_accountkit_confirmation_code_text">Não recebi um código</string>
+    <string gender="unknown" name="com_accountkit_confirmation_code_title">Insere o teu código</string>
+    <string gender="unknown" name="com_accountkit_email_invalid">Este e-mail é inválido. Tenta novamente.</string>
+    <string gender="unknown" name="com_accountkit_email_loading_title">A verificar o teu endereço de e-mail...</string>
+    <string gender="unknown" name="com_accountkit_email_login_retry_title">Confirmar o teu e-mail</string>
+    <string gender="unknown" name="com_accountkit_email_login_text">Toca em %1$s para receberes uma confirmação por e-mail do Account Kit do Facebook para te ajudar a usar %2$s. Não precisas de uma conta do Facebook para o usar. &lt;a href=%3$s>Sabe mais sobre a forma como o Facebook usa as tuas informações&lt;/a>.</string>
+    <string gender="unknown" name="com_accountkit_email_login_title">Insere o teu endereço de e-mail</string>
+    <string gender="unknown" name="com_accountkit_email_not_received">Reenviar E-mail</string>
+    <string gender="unknown" name="com_accountkit_email_verify_title">Abre o e-mail e confirma o teu endereço de e-mail</string>
+    <string gender="unknown" name="com_accountkit_enter_code_sent_to">Insere o código que foi enviado para %1$s</string>
+    <string gender="unknown" name="com_accountkit_error_title">Ocorreu um problema de sistema. Tenta novamente.</string>
+    <string gender="unknown" name="com_accountkit_facebook_code_entry_title">Insere o teu código do Facebook</string>
+    <string gender="unknown" name="com_accountkit_logging_in">A iniciar sessão…</string>
+    <string gender="unknown" name="com_accountkit_other_ways_to_get_code">Outras formas de receber um código:</string>
+    <string gender="unknown" name="com_accountkit_phone_error_title">Insere um número de telemóvel válido.</string>
+    <string gender="unknown" name="com_accountkit_phone_loading_title">A verificar o teu número...</string>
+    <string gender="unknown" name="com_accountkit_phone_login_retry_title">Confirma o teu número de telemóvel</string>
+    <string gender="unknown" name="com_accountkit_phone_login_text">Toca em %1$s para verificares a tua conta com o Account Kit patrocinado pelo Facebook. Não precisas de uma conta do Facebook para usares o Account Kit. Será enviado um SMS para verificar o teu número. As tarifas para mensagens e dados poderão ser aplicadas. &lt;a href=%2$s>Sabe mais sobre a forma como o Facebook usa as tuas informações&lt;/a>.</string>
+    <string gender="unknown" name="com_accountkit_phone_login_title">Insere o teu número de telemóvel</string>
+    <string gender="unknown" name="com_accountkit_phone_sending_code_on_fb_title">A enviar código no Facebook...</string>
+    <string gender="unknown" name="com_accountkit_phone_update_title">Insere o teu número de telemóvel novo</string>
+    <string gender="unknown" name="com_accountkit_resend_check">Verifica a tua caixa de entrada de SMS</string>
+    <string gender="unknown" name="com_accountkit_resend_email_text">Enviar Novo E-mail</string>
+    <string gender="unknown" name="com_accountkit_resend_title">Se não recebeste um código:</string>
+    <string gender="unknown" name="com_accountkit_return_title">A redirecionar para %1$s...</string>
+    <string gender="unknown" name="com_accountkit_sent_title">Enviado!</string>
+    <string gender="unknown" name="com_accountkit_success_title">Verificado!</string>
+    <string gender="unknown" name="com_accountkit_toolbar_title">Iniciar sessão em %1$s</string>
+    <string gender="unknown" name="com_accountkit_verify_confirmation_code_title">Não foi possível verificar o teu código. Tenta novamente.</string>
+    <string gender="unknown" name="com_accountkit_verify_confirmation_code_title_colon">Não foi possível verificar o teu código. Tenta novamente:</string>
+    <string gender="unknown" name="com_accountkit_verify_title">A verificar o teu código...</string>
+    <string gender="unknown" name="com_accountkit_voice_call_code_entry_title">Insere o teu código da chamada de voz</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Ativar"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"O <ns1:g id="APP_NAME">%1$s</ns1:g> não funciona enquanto não ativar os serviços do Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Ativar serviços do Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalar"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"O <ns1:g id="APP_NAME">%1$s</ns1:g> não é executado sem os Serviços do Google Play, os quais estão em falta no seu dispositivo."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Obter serviços do Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Disponibilidade Serviços do Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Erro dos Serviços do Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> está a ter problemas com os Serviços do Google Play. Tente novamente."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Não é possível executar o <ns1:g id="APP_NAME">%1$s</ns1:g> sem os Serviços do Google Play, os quais não são compatíveis com o seu dispositivo."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Atualizar"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"O <ns1:g id="APP_NAME">%1$s</ns1:g> não é executado enquanto não atualizar os serviços do Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Atualizar serviços do Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"O <ns1:g id="APP_NAME">%1$s</ns1:g> não é executado sem os serviços do Google Play, os quais estão a ser atualizados."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"É necessária uma nova versão dos serviços do Google Play. Esta será atualizada automaticamente em breve."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Abrir no telemóvel"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Iniciar sessão"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Iniciar sessão com o Google"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Diversas"</string>
+    <string msgid="9521340570209730" name="gcm_fallback_notification_channel_label">"Diversas"</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"Botão Transmitir"</string>
+    <string msgid="5088427771788648085" name="mr_cast_button_connected">"Botão Transmitir. Ligado"</string>
+    <string msgid="2187642765091873834" name="mr_cast_button_connecting">"Botão Transmitir. A ligar..."</string>
+    <string msgid="816305490427819240" name="mr_cast_button_disconnected">"Botão Transmitir. Desligado"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"A localizar dispositivos"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"Transmitir para"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"Imagem do álbum"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"A transmitir o ecrã"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"Fechar"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"Reduzir"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"Desassociar"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"Expandir"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"Nenhuma informação disponível"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"Nenhum suporte multimédia selecionado"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"Interromper"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"Reproduzir"</string>
+    <string msgid="735874641921425123" name="mr_controller_stop">"Parar"</string>
+    <string msgid="8857886794086583226" name="mr_controller_stop_casting">"Parar a transmissão"</string>
+    <string msgid="2361785992211841709" name="mr_controller_volume_slider">"Controlo de deslize do volume"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Sistema"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Dispositivos"</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Limpar pesquisa"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Pesquisar"</string>
+    <string msgid="368094699078615544" name="s1">"Guardar imagem"</string>
+    <string msgid="4550830452390689489" name="s2">"Pretende permitir ao anúncio armazenar uma imagem na galeria de imagens?"</string>
+    <string msgid="2435407834265420668" name="s3">"Aceitar"</string>
+    <string msgid="9167523597401839819" name="s4">"Recusar"</string>
+    <string msgid="1566682516266724847" name="s5">"Criar evento de calendário"</string>
+    <string msgid="5996672174517137271" name="s6">"Pretende permitir ao anúncio criar um evento de calendário?"</string>
+    <string msgid="7163549807207034258" name="s7">"Anúncio de teste"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Pesquisar"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string msgid="363496807345461806" name="wallet_buy_button_place_holder">"Comprar com a Google"</string>
+</resources>

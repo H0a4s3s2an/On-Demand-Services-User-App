@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sample.usertribe">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        >
+        <meta-data
+            android:name="com.facebook.accountkit.ApplicationName"
+            android:value="@string/app_name" />
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_application_id" />
+        <meta-data
+            android:name="com.facebook.accountkit.ClientToken"
+            android:value="@string/ACCOUNT_KIT_CLIENT_TOKEN" />
+
+        <activity android:name="com.facebook.accountkit.ui.AccountKitActivity" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="" />
+
+        <service android:name=".FCM.MyFirebaseInstanceIDService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name=".FCM.MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity android:name=".Activities.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activities.MainActivity"
+            android:parentActivityName=".Activities.DashBoardActivity" />
+        <activity android:name=".Activities.SliderActivity" />
+        <activity android:name=".Activities.FlatActivity" />
+        <activity
+            android:name=".Activities.LoginActivity"
+            android:parentActivityName=".Activities.FlatActivity" />
+        <activity
+            android:name=".Activities.RegisterActivity"
+            android:parentActivityName=".Activities.FlatActivity" />
+        <activity
+            android:name=".Activities.PasswordResetActivity"
+            android:parentActivityName=".Activities.LoginActivity" />
+        <activity
+            android:name=".Activities.DashBoardActivity"
+            android:label="@string/title_activity_dash_board"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Activities.EditProfileActivity"
+            android:parentActivityName=".Activities.ProfileVisitActivity"/>
+        <activity
+            android:name=".Activities.ProfileVisitActivity"
+            android:parentActivityName=".Activities.DashBoardActivity"/>
+        <activity android:name=".Activities.ChangePasswordActivity" />
+        <activity
+            android:name=".Activities.AutoCompleteSearch"
+            android:parentActivityName=".Activities.DashBoardActivity" />
+        <activity
+            android:name=".Activities.SubCategoryActivity"
+            android:parentActivityName=".Activities.DashBoardActivity" />
+        <activity
+            android:name=".Activities.DetailedActivity"
+            android:parentActivityName=".Activities.SubCategoryActivity" />
+        <activity android:name=".Activities.AddressActivity" />
+        <activity
+            android:name=".Activities.ServiceProMapActivity"
+            android:parentActivityName=".Activities.PaymentModeActivity" />
+        <activity android:name=".Activities.BookingDetailActivity" />
+        <activity android:name=".Activities.PaymentModeActivity"
+            android:parentActivityName=".Activities.DetailedActivity"/>
+        <activity android:name=".Activities.PaymentActivity" />
+
+    </application>
+
+</manifest>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sample.usertribe.Activities.PaymentModeActivity"
+    android:orientation="vertical">
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        android:id="@+id/my_toolbar1">
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@android:color/transparent"
+            app:popupTheme="@style/AppTheme.PopupOverlay"/>
+    </android.support.design.widget.AppBarLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="15dp"
+        >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="What would you like to pay "
+        app:layout_constraintBottom_toBottomOf="@id/my_toolbar"
+        android:textSize="22sp"
+        android:textColor="#424242"
+        android:fontFamily="sans-serif"
+        />
+    <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="15dp"
+        android:id="@id/radio"
+        >
+        <RadioButton android:id="@+id/radio_pirates"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cash Mode"
+            android:textColor="#424242"
+            android:textSize="18sp"
+            android:checked="true"
+            android:buttonTint="#000000"
+            />
+            <!--android:onClick="onRadioButtonClicked"/>-->
+        <RadioButton android:id="@+id/radio_ninjas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Card Mode"
+            android:textColor="#424242"
+            android:textSize="18sp"
+            android:layout_marginTop="10dp"
+            android:buttonTint="#000000"/>
+            <!--android:onClick="onRadioButtonClicked"/>-->
+    </RadioGroup>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           >
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rounded_button"
+            android:text="CONTINUE"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:backgroundTint="#000000"
+            android:layout_gravity="bottom"
+            android:layout_alignParentBottom="true"
+            android:id="@+id/next"
+            />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>
