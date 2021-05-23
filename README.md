@@ -6,14 +6,12 @@ This was my final year university project that i had done in back 2018. It was c
 Basically the idea was to provide different daily services online to users on reasonable rates. Online service providers will be shown on map and user can send real time reuest to nearest one.
 
 # Screenshots
-| ----------------------------------- | ----------------------------------------------------------------- |
-| ![](Screenshot_20200516-012011.png) | ![](Screenshot_20200516-020033.pngScreenshot_20200516-020033.png) |
-
-<!-- <img src="https://github.com/H0a4s3s2an/On-Demand-Services-User-App/blob/main/screenshots/Screenshot_20200516-012011.png" width="172" height="374"/>
+<img src="https://github.com/H0a4s3s2an/On-Demand-Services-User-App/blob/main/screenshots/Screenshot_20200516-012011.png" width="172" height="374"/>
 <img src="https://github.com/H0a4s3s2an/On-Demand-Services-User-App/blob/main/screenshots/Screenshot_20200516-020033.png" width="172" height="374"/>
 <img src="https://github.com/H0a4s3s2an/On-Demand-Services-User-App/blob/main/screenshots/Screenshot_20200516-020049.png" width="172" height="374"/>
 <img src="https://github.com/H0a4s3s2an/On-Demand-Services-User-App/blob/main/screenshots/Screenshot_20200516-020114.png" width="172" height="374"/>
- -->
+
+
 # How To Use
 clone this repository
 create project on firebase
